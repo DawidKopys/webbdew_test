@@ -1,0 +1,7 @@
+Dawid
+Jest dziś jesienny wieczór, ten z tych mniej przyjemnych.
+Dzisiaj, 26.11.19, zaczynam moją przygodę z webdevem :)
+Widzimy się za pół roku, zobaczymy postępy ;)
+#0D1BB4
+<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+font-family: 'Roboto', sans-serif;
